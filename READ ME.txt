@@ -17,3 +17,10 @@ Resultados:
 
 Após o treinamento, o script exibirá a porcentagem de acerto final do modelo.
 A porcentagem de acerto indica a proporção de previsões corretas feitas pelo Perceptron.
+
+QUESTÃO 2
+Abra o Octave: utilize a versão octave 4.0.0
+A base a ser carregada encontrasse no arquivo column_3C.dat.
+Foi feita uma alteração no target DH = 1, SL = 2 e NO = 3;
+
+Navegue até o diretório onde o arquivo está localizado e execute o programa.
